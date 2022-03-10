@@ -1,4 +1,4 @@
-# Catalog.
+
 Students Register Management
 
 A faculty stores information about:
